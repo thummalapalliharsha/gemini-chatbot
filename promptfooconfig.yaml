@@ -1,0 +1,9 @@
+prompts:
+  - "You are a helpful AI assistant. Answer the user's question clearly and accurately in simple language.\n\nUser: {{question}}"
+
+providers:
+  - google:gemini-3.5-flash
+
+tests:
+  - vars:
+      question: "What is Machine Learning?"

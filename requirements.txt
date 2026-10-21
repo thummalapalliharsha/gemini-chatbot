@@ -1,0 +1,5 @@
+streamlit==1.61.1
+python-dotenv==1.2.2
+google-genai==2.17.0
+langfuse==4.14.3
+openinference-instrumentation-google-genai==1.4.0
